@@ -274,53 +274,6 @@ function App() {
           </p>
         </section>
 
-        <section className="sample-section">
-          <div className="sample-inner">
-            <div className="sample-intro">
-              <span className="eyebrow">A LOOK AT THE WORK</span>
-              <h2>
-                Format
-                <br />
-                sample<span className="blue-period">.</span>
-              </h2>
-              <p>
-                Clear, direct and written for people, not like an advert
-                nobody wants to read.
-              </p>
-            </div>
-
-            <article className="sample-post">
-              <div className="sample-post-head">
-                <div className="sample-avatar">J</div>
-                <div className="sample-author">
-                  <strong>Jeremy</strong>
-                  <span>@jeremyct · Template</span>
-                </div>
-              </div>
-
-              <div className="sample-label">
-                PAID PARTNERSHIP
-              </div>
-
-              <div className="sample-copy">
-                <p>Paid partnership with [Project name].</p>
-                <p>
-                  [One sentence on what the project does, in plain words.]
-                </p>
-                <p>
-                  [The specific problem it solves and who it is for.]
-                </p>
-                <p className="sample-link">[Link to the project.]</p>
-              </div>
-
-              <div className="sample-post-foot">
-                <span>EXAMPLE FORMAT</span>
-                <span>Clear by design.</span>
-              </div>
-            </article>
-          </div>
-        </section>
-
         <section className="process section-wrap" id="process">
           <div className="section-heading">
             <div>
